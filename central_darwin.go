@@ -3,7 +3,7 @@ package gatt
 import (
 	"sync"
 
-	"github.com/cfreeman/gatt/xpc"
+	"github.com/andreaaizza/gatt/xpc"
 )
 
 type central struct {

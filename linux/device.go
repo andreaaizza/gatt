@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/cfreeman/gatt/linux/gioctl"
-	"github.com/cfreeman/gatt/linux/socket"
+	"github.com/andreaaizza/gatt/linux/gioctl"
+	"github.com/andreaaizza/gatt/linux/socket"
 )
 
 type device struct {

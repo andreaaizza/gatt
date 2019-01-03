@@ -1,8 +1,8 @@
 package option
 
 import (
-	"github.com/cfreeman/gatt"
-	"github.com/cfreeman/gatt/linux/cmd"
+	"github.com/andreaaizza/gatt"
+	"github.com/andreaaizza/gatt/linux/cmd"
 )
 
 var DefaultClientOptions = []gatt.Option{
